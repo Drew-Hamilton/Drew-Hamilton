@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Drew
+- 👀 I’m interested in furthering my career by contributing to open source projects
+- 🌱 I’m currently learning Haskell, Ruby, and Fortran
+- 💞️ I’m looking to collaborate on open-source projects that aim to make a difference
